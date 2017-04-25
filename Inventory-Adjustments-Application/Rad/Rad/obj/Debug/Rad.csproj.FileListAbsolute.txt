@@ -1,0 +1,208 @@
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\SQLite-net.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\SQLitePCL.raw.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Splat.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.config
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\ExifLib.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Splat.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\SQLite.Net.Async.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\SQLite.Net.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Caching.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Caching.SQLite.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Caching.SQLite.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.config
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\ExifLib.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Splat.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.config
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\ExifLib.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Splat.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\obj\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad\bin\Debug\Rad.dll.mdb

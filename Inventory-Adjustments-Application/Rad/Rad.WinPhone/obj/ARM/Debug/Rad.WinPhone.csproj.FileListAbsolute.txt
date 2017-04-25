@@ -1,0 +1,6 @@
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\App.g.cs
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\MainPage.g.cs
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\Rad.WinPhone.g.resources
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\ARM\Debug\Rad.WinPhone.csproj.GenerateResource.Cache

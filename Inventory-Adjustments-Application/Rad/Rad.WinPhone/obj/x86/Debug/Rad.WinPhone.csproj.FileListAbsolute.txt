@@ -1,0 +1,222 @@
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SplashScreenImage.jpg
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sqlite3.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\AppManifest.xaml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLite-net.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.raw.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.WP8.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.cppinterop.winmd
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.cppinterop.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.WinPhone\obj\x86\Debug\XapCacheFile.xml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SplashScreenImage.jpg
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\AppManifest.xaml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\XapCacheFile.xml
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SplashScreenImage.jpg
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\sqlite3.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Parse.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Parse.Phone.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Platform.WP8.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.cppinterop.winmd
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Parse.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Parse.Phone.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.cppinterop.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\SQLitePCL.cppinterop.pri
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\resources.pri
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\AppxManifest.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone.build.appxrecipe
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\AppManifest.xaml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Bin\x86\Debug\Rad.WinPhone_Debug_x86.xap
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\priconfig.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\layout.resfiles
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\resources.resfiles
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\pri.resfiles
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\qualifiers.txt
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\SQLitePCL.cppinterop.pri.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MDILProjectFiles.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\XapCacheFile.xml
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\App.g.cs
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.g.resources
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.Resources.AppResources.resources
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.csproj.GenerateResource.Cache
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.WinPhone\obj\x86\Debug\Rad.WinPhone.pdb

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XLabs.Serialization.ProtoBuf</name>
+    </assembly>
+    <members>
+        <member name="T:XLabs.Serialization.ProtoBuf.ProtoBufSerializer">
+            <summary>
+            The protobuf serializer.
+            </summary>
+        </member>
+        <member name="M:XLabs.Serialization.ProtoBuf.ProtoBufSerializer.Flush">
+            <summary>
+            Cleans memory.
+            </summary>
+        </member>
+        <member name="M:XLabs.Serialization.ProtoBuf.ProtoBufSerializer.Serialize``1(``0,System.IO.Stream)">
+            <summary>
+            Serializes object to a stream.
+            </summary>
+            <typeparam name="T">Type of object to serialize.</typeparam>
+            <param name="obj">Object to serialize.</param>
+            <param name="stream">Stream to serialize to.</param>
+        </member>
+        <member name="M:XLabs.Serialization.ProtoBuf.ProtoBufSerializer.Deserialize``1(System.IO.Stream)">
+            <summary>
+            Deserializes stream into an object.
+            </summary>
+            <typeparam name="T">Type of object to serialize to.</typeparam>
+            <param name="stream">Stream to deserialize from.</param>
+            <returns>Object of type T.</returns>
+        </member>
+        <member name="M:XLabs.Serialization.ProtoBuf.ProtoBufSerializer.Deserialize(System.IO.Stream,System.Type)">
+            <summary>
+            Deserializes stream into an object.
+            </summary>
+            <param name="stream">Stream to deserialize from.</param>
+            <param name="type">Type of object to deserialize.</param>
+            <returns>Deserialized object.</returns>
+        </member>
+        <member name="P:XLabs.Serialization.ProtoBuf.ProtoBufSerializer.Format">
+            <summary>
+            Gets the serialization format.
+            </summary>
+            <value>Serialization format.</value>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,2 @@
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.WinPhone\Rad.WinPhone.csproj;x86
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad\Rad.csproj;neutral

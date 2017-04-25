@@ -1,0 +1,99 @@
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\RadiOS.exe
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\RadiOS.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Rad.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLitePCL.raw.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLite-net.dll.mdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-568h@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-Portrait.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-Portrait@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-60@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-60@3x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-76.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-76@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@3x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\Rad.iOS.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\RadiOS.exe
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.iOS\obj\iPhone\Debug\RadiOS.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\RadiOS.exe
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\RadiOS.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Parse.iOS.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Rad.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Rad.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Parse.iOS.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\SQLite-net.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-568h@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-Portrait.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default-Portrait@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Default@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-60@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-60@3x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-76.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-76@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@3x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\optimized\
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\Rad.iOS.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\RadiOS.exe
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.iOS\obj\iPhone\Debug\RadiOS.pdb

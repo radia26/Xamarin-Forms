@@ -1,0 +1,450 @@
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\SQLite-net.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\SQLite-net.dll.mdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\amer.radi\Documents\Visual Studio 2012\Projects\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\Outlook.com\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\amer.radi\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.Support.Android.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.UserDialogs.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\AndHUD.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Splat.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Splat.dll.mdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\amer.radi\Documents\5-699\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.config
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\ExifLib.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.Async.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.SQLite.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.JsonNET.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.pdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.SQLite.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.xml
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Documents\Amer\ALL\flasha\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.config
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\ExifLib.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.Async.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.SQLite.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.JsonNET.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Caching.SQLite.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.xml
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\GP\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.config
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\ExifLib.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.xml
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\C-Rad3\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.config
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.apk
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid-Signed.apk
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\ExifLib.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\SQLite-net.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\SQLitePCL.raw.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Settings.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Parse.Android.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\protobuf-net.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Core.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Ioc.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\XLabs.Serialization.ProtoBuf.xml
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.csprojResolveAssemblyReference.cache
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.pdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\android\bin\Rad.Droid.apk
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\R.cs.flag
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\uploadflags.txt
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\obj\Debug\Rad.Droid.dll.mdb
+C:\Users\AR\Desktop\C-Rad3 - Copy\Rad\Rad\Rad.Droid\bin\Debug\Rad.Droid.dll.mdb
